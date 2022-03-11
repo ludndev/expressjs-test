@@ -1,0 +1,15 @@
+{
+  "name": "test-site",
+  "version": "1.0.0",
+  "description": "Simple site",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ludndev",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
